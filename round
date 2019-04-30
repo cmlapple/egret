@@ -1,0 +1,24 @@
+{
+    "type": "round",
+    "squence": 1,
+    "states": [
+        {
+            "playerName": "test0",
+            "action": "shifa",
+            "enemyName": "enemy0",
+            "damage": 5
+        },
+       {
+            "playerName": "test1",
+            "action": "gongji",
+            "enemyName": "enemy1",
+            "damage": 5
+        },
+        {
+            "playerName": "test2",
+            "action": "gongji",
+            "enemyName": "enemy1",
+            "damage": 5
+        }
+    ]
+}
