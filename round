@@ -4,7 +4,7 @@
     "states": [
         {
             "playerName": "enemy0",
-            "action": "shifa",
+            "action": "fashu",
             "enemyName": "test0",
             "damage": 15
         },
