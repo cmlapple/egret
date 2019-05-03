@@ -3,21 +3,21 @@
     "squence": 1,
     "states": [
         {
-            "playerName": "test0",
+            "playerName": "enemy0",
             "action": "shifa",
-            "enemyName": "enemy0",
-            "damage": 5
+            "enemyName": "test0",
+            "damage": 15
         },
        {
-            "playerName": "test1",
+            "playerName": "enemy1",
             "action": "gongji",
-            "enemyName": "enemy1",
+            "enemyName": "test1",
             "damage": 5
         },
         {
-            "playerName": "test2",
+            "playerName": "enemy2",
             "action": "gongji",
-            "enemyName": "enemy1",
+            "enemyName": "test2",
             "damage": 5
         }
     ]
