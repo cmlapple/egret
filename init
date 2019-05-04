@@ -1,0 +1,36 @@
+{
+    "type": "init",
+    "squence": 0,
+    "states": [
+        {
+            "playerName": "enemy0",
+            "speed": 10,
+            "tag": "enemy"
+        },
+        {
+            "playerName": "enemy1",
+            "speed": 5,
+            "tag": "enemy"
+        },
+        {
+            "playerName": "enemy2",
+            "speed": 1,
+            "tag": "enemy"
+        },
+        {
+            "playerName": "player0",
+            "speed": 7,
+            "tag": "player"
+        },
+        {
+            "playerName": "player1",
+            "speed": 8,
+            "tag": "player"
+        },
+        {
+            "playerName": "player2",
+            "speed": 4,
+            "tag": "player"
+        }
+    ]
+}
