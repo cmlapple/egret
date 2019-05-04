@@ -5,19 +5,19 @@
         {
             "playerName": "enemy0",
             "action": "fashu",
-            "enemyName": "test1",
+            "enemyName": "player1",
             "damage": 15
         },
        {
             "playerName": "enemy1",
             "action": "gongji",
-            "enemyName": "test1",
+            "enemyName": "player2",
             "damage": 5
         },
         {
             "playerName": "enemy2",
             "action": "gongji",
-            "enemyName": "test1",
+            "enemyName": "player0",
             "damage": 5
         }
     ]
