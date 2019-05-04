@@ -1,7 +1,7 @@
 {
     "type": "init",
     "squence": 0,
-    "states": [
+    "stats": [
         {
             "playerName": "enemy0",
             "speed": 10,
