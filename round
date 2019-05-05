@@ -12,13 +12,13 @@
             "playerName": "enemy1",
             "action": "gongji",
             "enemyName": "player2",
-            "damage": 5
+            "damage": 25
         },
         {
             "playerName": "enemy2",
             "action": "gongji",
             "enemyName": "player0",
-            "damage": 5
+            "damage": 35
         }
     ]
 }
