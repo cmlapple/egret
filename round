@@ -19,6 +19,24 @@
             "action": "gongji",
             "enemyName": "player0",
             "damage": 35
+        },
+        {
+            "playerName": "player0",
+            "action": "gongji",
+            "enemyName": "enemy2",
+            "damage": 35
+        },
+        {
+            "playerName": "player0",
+            "action": "gongji",
+            "enemyName": "enemy1",
+            "damage": 35
+        },
+        {
+            "playerName": "player0",
+            "action": "gongji",
+            "enemyName": "enemy3",
+            "damage": 35
         }
     ]
 }
