@@ -27,15 +27,15 @@
             "damage": 35
         },
         {
-            "playerName": "player0",
+            "playerName": "player1",
             "action": "gongji",
             "enemyName": "enemy1",
             "damage": 35
         },
         {
-            "playerName": "player0",
+            "playerName": "player2",
             "action": "gongji",
-            "enemyName": "enemy3",
+            "enemyName": "enemy0",
             "damage": 35
         }
     ]
