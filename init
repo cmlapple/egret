@@ -9,22 +9,22 @@
         },
         {
             "playerName": "enemy1",
-            "speed": 2,
-            "tag": "enemy"
-        },
-        {
-            "playerName": "enemy2",
             "speed": 3,
             "tag": "enemy"
         },
         {
+            "playerName": "enemy2",
+            "speed": 5,
+            "tag": "enemy"
+        },
+        {
             "playerName": "player0",
-            "speed": 4,
+            "speed": 2,
             "tag": "player"
         },
         {
             "playerName": "player1",
-            "speed": 5,
+            "speed": 4,
             "tag": "player"
         },
         {
