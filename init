@@ -14,7 +14,7 @@
         },
         {
             "playerName": "enemy2",
-            "speed": 5,
+            "speed": 7,
             "tag": "enemy"
         },
         {
