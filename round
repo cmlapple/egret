@@ -4,7 +4,7 @@
     "states": [
         {
             "playerName": "enemy0",
-            "action": "fashu",
+            "action": "gongji",
             "enemyName": "player1",
             "damage": 15
         },
