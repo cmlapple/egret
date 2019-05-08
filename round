@@ -4,37 +4,37 @@
     "states": [
         {
             "playerName": "enemy0",
-            "action": "gongji",
+            "action": "fashu",
             "enemyName": "player1",
             "damage": 15
         },
        {
             "playerName": "enemy1",
-            "action": "gongji",
+            "action": "fashu",
             "enemyName": "player2",
             "damage": 25
         },
         {
             "playerName": "enemy2",
-            "action": "gongji",
+            "action": "fashu",
             "enemyName": "player0",
             "damage": 35
         },
         {
             "playerName": "player0",
-            "action": "gongji",
+            "action": "fashu",
             "enemyName": "enemy2",
             "damage": 35
         },
         {
             "playerName": "player1",
-            "action": "gongji",
+            "action": "fashu",
             "enemyName": "enemy1",
             "damage": 35
         },
         {
             "playerName": "player2",
-            "action": "gongji",
+            "action": "fashu",
             "enemyName": "enemy0",
             "damage": 35
         }
