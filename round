@@ -22,7 +22,7 @@
         },
         {
             "playerName": "player0",
-            "action": "fashu",
+            "action": "null",
             "enemyName": "null",
             "damage": 35
         },
