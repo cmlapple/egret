@@ -17,13 +17,13 @@
         {
             "playerName": "enemy2",
             "action": "fashu",
-            "enemyName": "player0",
+            "enemyName": "player1",
             "damage": 35
         },
         {
             "playerName": "player0",
             "action": "fashu",
-            "enemyName": "enemy2",
+            "enemyName": "null",
             "damage": 35
         },
         {
