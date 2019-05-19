@@ -5,7 +5,7 @@
         {
             "playerName": "enemy0",
             "action": "fashu",
-            "enemyName": "player1",
+            "enemyName": "null",
             "damage": 15
         },
        {
@@ -35,7 +35,7 @@
         {
             "playerName": "player2",
             "action": "fashu",
-            "enemyName": "enemy0",
+            "enemyName": "null",
             "damage": 35
         }
     ]
